@@ -2,37 +2,37 @@
 The online shopping system in java allows buyers to buy goods/products directly from the seller website and it saves time and money of buyer
 # about the project
 
- `Seller/Admin can add the product
+ `Seller/Admin can add the product`
  
- Seller/Admin can edit the product.
+` Seller/Admin can edit the product.`
  
-Seller/Admin can delete the product.
+`Seller/Admin can delete the product.`
 
-Seller/Admin can view the product.
+`Seller/Admin can view the product.`
 
-Seller/Admin can view the customers.
+`Seller/Admin can view the customers.`
 
-Seller/Admin can view all orders.
+`Seller/Admin can view all orders.`
 
-Seller/Admin can view pending orders.
+`Seller/Admin can view pending orders.`
 
-Seller/Admin have a dashboard to check the number of orders, customers, products.
+`Seller/Admin have a dashboard to check the number of orders, customers, products.`
 
-Seller/Admin have basic login and logout functionality.
+`Seller/Admin have basic login and logout functionality.`
 
-Buyer/Customer have basic login, register and logout functionality.
+`Buyer/Customer have basic login, register and logout functionality.`
+`
+`Buyer/Customer can view the products`
 
-Buyer/Customer can view the products
+`Buyer/Customer can add the product into the cart`
 
-Buyer/Customer can add the product into the cart
+`Buyer/Customer can remove the product from the cart`
 
-Buyer/Customer can remove the product from the cart
+`Buyer/Customer can change the quantity of products in the cart`
 
-Buyer/Customer can change the quantity of products in the cart
+`Buyer/Customer can order the product`
 
-Buyer/Customer can order the product
-
-Buyer/Customer can view all product ordered history`
+`Buyer/Customer can view all product ordered history`
 
 # technologies used
 - [IDE Used: Apache netbeans 15](https://netbeans.apache.org/download/index.html).
