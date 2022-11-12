@@ -29,9 +29,7 @@ The online shopping system in java allows buyers to buy goods/products directly 
 `Buyer/Customer can remove the product from the cart`
 
 `Buyer/Customer can change the quantity of products in the cart`
-
 `Buyer/Customer can order the product`
-
 `Buyer/Customer can view all product ordered history`
 
 # technologies used
