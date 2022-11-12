@@ -1,7 +1,8 @@
 # online-shoping-system
 The online shopping system in java allows buyers to buy goods/products directly from the seller website and it saves time and money of buyer
 # about the project
- Seller/Admin can add the product
+
+ `Seller/Admin can add the product
  
  Seller/Admin can edit the product.
  
@@ -31,7 +32,7 @@ Buyer/Customer can change the quantity of products in the cart
 
 Buyer/Customer can order the product
 
-Buyer/Customer can view all product ordered history
+Buyer/Customer can view all product ordered history`
 
 # technologies used
 - [IDE Used: Apache netbeans 15](https://netbeans.apache.org/download/index.html).
