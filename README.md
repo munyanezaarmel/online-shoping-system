@@ -21,7 +21,7 @@ The online shopping system in java allows buyers to buy goods/products directly 
 `Seller/Admin have basic login and logout functionality.`
 
 `Buyer/Customer have basic login, register and logout functionality.`
-`
+
 `Buyer/Customer can view the products`
 
 `Buyer/Customer can add the product into the cart`
