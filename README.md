@@ -2,6 +2,7 @@
 The online shopping system in java allows buyers to buy goods/products directly from the seller website and it saves time and money of buyer
 # about the project
 `- Seller/Admin can add the product.
+
  Seller/Admin can edit the product.
 Seller/Admin can delete the product.
 Seller/Admin can view the product.
